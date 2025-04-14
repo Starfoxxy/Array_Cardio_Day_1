@@ -1,1 +1,2 @@
 # Array_Cardio_Day_1
+***I practiced using array methods using Javascript. The methods I covered were filter(), map(), sort(), and reduce(). I sorted data alphabetically, by years lived, and by birthdate from oldest to youngest. I filtered by the year someone was born and by boulevards. I learned to map first and last names to form full names and to get text content from links. Lastly, through the reduce method, I was able to calculate how many years in total lived and sum up the total instances of an item in a dataset***
